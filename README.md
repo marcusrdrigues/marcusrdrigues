@@ -13,13 +13,13 @@
 
 **Aplicações e dados**
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
 ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=DD0031)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS&logoColor=1572B6)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
