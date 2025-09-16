@@ -13,7 +13,7 @@
 
 **Aplicações e dados**
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=007396)
 ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
@@ -38,7 +38,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Maven](https://img.shields.io/badge/-Maven-333333?style=flat&logo=apache-maven)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonwebservices)
 ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoftazure)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=google-cloud)
 
