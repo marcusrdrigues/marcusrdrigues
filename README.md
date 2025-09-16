@@ -57,7 +57,7 @@
 
 ## 📚 Leituras Inspiradoras
 
-📖 **Clean Code** - *Robert C. Martin*  
+📖 **Código Limpo** - *Robert C. Martin*  
 🔹 Boas práticas na escrita de código, com foco em clareza e manutenibilidade.
 
 📖 **Arquitetura Limpa** - *Robert C. Martin*  
@@ -71,7 +71,6 @@
 [![Linkedin](https://img.shields.io/badge/-marcusrdrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcusrdrigues)](https://www.linkedin.com/in/marcusrdrigues)
 [![Gmail Badge](https://img.shields.io/badge/-marcusp181@icloud.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcusp181@icloud.com)](mailto:marcusp181@icloud.com)
 [![GitHub](https://img.shields.io/github/followers/marcusrdrigues?label=follow&style=social)](https://github.com/marcusrdrigues)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/)](https://wa.me/)
 
 ---
 
