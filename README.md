@@ -4,8 +4,9 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - ⚖️ **Formação em Direito**, mas apaixonado por **Tecnologia da Informação**.
-- 🎓 Estudando **Análise e Desenvolvimento de Sistemas (ADS)** na **UNINTER** - 2º período.
+- 🎓 Estudando **Análise e Desenvolvimento de Sistemas (ADS)** na **ESTÁCIO** - 2º período.
 - 🚀 Cursando **Java WebDeveloper - Formação FullStack** na **COTI INFORMÁTICA**.
+- 🚀 Cursando **FRONTEND ANGULAR** na **COTI INFORMÁTICA**.
 - 💼 Buscando oportunidade de **estágio ou posição júnior** para aplicar conhecimentos.
 - 🌱 Aprendendo mais sobre **desenvolvimento Full Stack** e **arquitetura de software**.
 
