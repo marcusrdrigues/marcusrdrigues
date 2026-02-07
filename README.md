@@ -94,7 +94,7 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-marcusrdrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcusrdrigues)](https://www.linkedin.com/in/marcusrdrigues)
-[![Gmail Badge](https://img.shields.io/badge/-marcusp181@icloud.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcusp181@icloud.com)](mailto:marcusp181@icloud.com)
+[![Gmail Badge](https://img.shields.io/badge/-marcusp181@icloud.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcusp181@gmail.com)](mailto:marcusp181@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/marcusrdrigues?label=follow&style=social)](https://github.com/marcusrdrigues)
 
 ---
