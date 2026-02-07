@@ -7,7 +7,7 @@
 - 🎓 Estudando **Análise e Desenvolvimento de Sistemas (ADS)** na **ESTÁCIO** - 2º período.
 - 🚀 Cursando **C# WebDeveloper - Formação FullStack** na **COTI INFORMÁTICA**.
 - 🚀 Cursando **FRONTEND ANGULAR** na **COTI INFORMÁTICA**.
-- 🚀 Cursando **Java WebDeveloper - Formação FullStack** na **COTI INFORMÁTICA**.
+- 🚀 **Java WebDeveloper - Formação FullStack** na **COTI INFORMÁTICA**.
 - 💼 Buscando oportunidade de **estágio ou posição júnior** para aplicar conhecimentos.
 - 🌱 Aprendendo mais sobre **desenvolvimento Full Stack** e **arquitetura de software**.
 
