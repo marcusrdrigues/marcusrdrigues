@@ -1,102 +1,122 @@
-![](https://komarev.com/ghpvc/?username=marcusrdrigues&color=006bed)
+<h1 align="center">👋 Olá, eu sou Marcus Rodrigues</h1>
 
-## Sobre mim
-
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- ⚖️ **Formação em Direito**, mas apaixonado por **Tecnologia da Informação**.
-- 🎓 Estudando **Análise e Desenvolvimento de Sistemas (ADS)** na **ESTÁCIO** - 2º período.
-- 🚀 Cursando **C# WebDeveloper - Formação FullStack** na **COTI INFORMÁTICA**.
-- 🚀 Cursando **FRONTEND ANGULAR** na **COTI INFORMÁTICA**.
-- 🚀 **Java WebDeveloper - Formação FullStack** na **COTI INFORMÁTICA**.
-- 💼 Buscando oportunidade de **estágio ou posição júnior** para aplicar conhecimentos.
-- 🌱 Aprendendo mais sobre **desenvolvimento Full Stack** e **arquitetura de software**.
-
-## Minhas Skills
-
-**Aplicações e dados**
-
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=007396)
-![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=DD0031)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS&logoColor=1572B6)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![Hibernate](https://img.shields.io/badge/-Hibernate-333333?style=flat&logo=hibernate)
-
-**Utilidades**
-
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
-
-**DevOps**
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Maven](https://img.shields.io/badge/-Maven-333333?style=flat&logo=apache-maven)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonwebservices)
-![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoftazure)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=google-cloud)
-
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visualstudiocode&logoColor=007ACC)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=000000)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![JUnit](https://img.shields.io/badge/-JUnit-333333?style=flat&logo=junit5&logoColor=25A162)
-
-<br/>
-
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats-theta-rose-79.vercel.app/api?username=marcusrdrigues&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats-theta-rose-79.vercel.app/api/top-langs/?username=marcusrdrigues&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=marcusrdrigues&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
-
-## 📚 Leituras Inspiradoras
-
-📖 **Código Limpo** - *Robert C. Martin*  
-🔹 Boas práticas na escrita de código, com foco em clareza e manutenibilidade.
-
-📖 **Arquitetura Limpa** - *Robert C. Martin*  
-🔹 Sistemas escaláveis e sustentáveis com arquitetura bem estruturada.
-
-📖 **O Programador Pragmático** - *Andrew Hunt & David Thomas*  
-🔹 Melhores práticas e resolução de problemas de desenvolvimento.
-
-## Onde me encontrar
-
-[![Linkedin](https://img.shields.io/badge/-marcusrdrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcusrdrigues)](https://www.linkedin.com/in/marcusrdrigues)
-[![Gmail Badge](https://img.shields.io/badge/-marcusp181@icloud.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcusp181@gmail.com)](mailto:marcusp181@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/marcusrdrigues?label=follow&style=social)](https://github.com/marcusrdrigues)
+<p align="center">
+💻 Desenvolvedor de Software Jr <br>
+🚀 Back-End | .NET • Java • APIs REST <br>
+🎓 Análise e Desenvolvimento de Sistemas – Estácio
+</p>
 
 ---
 
-💡 ***"Transformando aprendizado em projetos reais. </>"***
+## 🚀 Sobre mim
+
+Sou **Desenvolvedor FullStack Jr**, com foco em desenvolvimento **Back-End** e construção de **APIs REST**.
+
+Atualmente trabalho com tecnologias modernas do ecossistema **.NET e Java**, além de **Angular para front-end** e integração com bancos de dados.
+
+Estou cursando **Análise e Desenvolvimento de Sistemas (2º período)** pela **Estácio**, e busco constantemente evoluir minhas habilidades em arquitetura de software, boas práticas e desenvolvimento de aplicações escaláveis.
+
+---
+
+## 🛠 Stack Principal
+
+### Back-End
+
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet,cs,java,spring"/>
+</p>
+
+- .NET / C#
+- Java
+- Spring Boot
+- APIs REST
+
+---
+
+### Front-End
+
+<p>
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css"/>
+</p>
+
+- Angular
+- TypeScript
+- HTML
+- CSS
+
+---
+
+### Banco de Dados
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+</p>
+
+- SQL
+- PostgreSQL
+- MySQL
+
+---
+
+### Ferramentas e DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio"/>
+</p>
+
+- Docker
+- Git
+- GitHub
+- Visual Studio
+- VS Code
+
+---
+
+## 📊 Estatísticas GitHub
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=marcusrdrigues&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusrdrigues&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 Contribuições
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=marcusrdrigues&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🎯 Foco atual de desenvolvimento
+
+Atualmente estou aprofundando conhecimentos em:
+
+- Arquitetura de APIs
+- Clean Code
+- Design Patterns
+- Boas práticas em desenvolvimento Back-End
+- Docker e containerização de aplicações
+- Integração entre serviços
+
+---
+
+## 🌐 Conecte-se comigo
+
+<p>
+
+<a href="https://linkedin.com/in/marcusrdrigues">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/marcusrdrigues">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
