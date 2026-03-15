@@ -1,9 +1,9 @@
 <h1 align="center">👋 Olá, eu sou Marcus Rodrigues</h1>
 
 <p align="center">
-💻 Desenvolvedor de Software Jr <br>
-🚀 Back-End | .NET • Java • APIs REST <br>
-🎓 Análise e Desenvolvimento de Sistemas – Estácio
+💻 Desenvolvedor FullStack <br>
+🚀 C#.NET • Java • Angular • APIs REST <br>
+🎓 Análise e Desenvolvimento de Sistemas – 3º Período - Estácio
 </p>
 
 ---
@@ -12,7 +12,7 @@
 
 Sou **Desenvolvedor FullStack Jr**, com foco em desenvolvimento **Back-End** e construção de **APIs REST**.
 
-Atualmente trabalho com tecnologias modernas do ecossistema **.NET e Java**, além de **Angular para front-end** e integração com bancos de dados.
+Atualmente trabalho com tecnologias modernas do ecossistema **C# .NET e Java**, além de **Angular para front-end** e integração com bancos de dados.
 
 Estou cursando **Análise e Desenvolvimento de Sistemas (2º período)** pela **Estácio**, e busco constantemente evoluir minhas habilidades em arquitetura de software, boas práticas e desenvolvimento de aplicações escaláveis.
 
