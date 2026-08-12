@@ -10,7 +10,7 @@
 <h3 align="center">Construindo o futuro. Linha por linha.</h3>
 
 <p align="center">
-  Desenvolvedor Full Stack • Especialista em ecossistemas corporativos e websites de alta conversão.
+  Desenvolvedor Full Stack • Foco em ecossistemas corporativos e websites de alta conversão.
 </p>
 
 <p align="center">
