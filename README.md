@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=080808&height=120&section=header&text=%3E_%20Marcus Rodrigues&fontSize=40&fontColor=00f0ff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=080808&height=120&section=header&text=%3E_%20@marcusrodrigues&fontSize=40&fontColor=00f0ff&animation=fadeIn" />
 </div>
 
 <!-- Troque o link abaixo pelo link do GIF que você subir no seu repositório -->
