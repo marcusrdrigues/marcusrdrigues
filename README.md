@@ -10,7 +10,7 @@
 <h3 align="center">Construindo o futuro. Linha por linha.</h3>
 
 <p align="center">
-  Desenvolvedor Full Stack • Foco em ecossistemas corporativos e websites de alta conversão.
+  Desenvolvedor Full Stack | Ecossistemas Corporativos | Websites de Alta Conversão
 </p>
 
 <p align="center">
@@ -24,19 +24,19 @@
 
 ---
 
-## 🚀 Sobre mim
+## Perfil Profissional
 
-Não sou apenas um desenvolvedor, sou um construtor de soluções. Com um background analítico afiado pela minha transição de carreira, trago uma visão estratégica para cada linha de código que escrevo. 
+Não sou apenas um desenvolvedor, sou um construtor de soluções. Com um background analítico afiado pela minha transição de carreira, trago uma visão estratégica para cada arquitetura que desenho. 
 
-Atuo como um profissional focado na entrega de valor real, dominando o **Back-End** para criar **APIs REST** robustas e escaláveis, além de orquestrar interfaces interativas de ponta a ponta. A lógica por trás da arquitetura importa tanto quanto a experiência final do usuário.
+Atuo focado na entrega de valor real, dominando o Back-End para criar APIs REST robustas e escaláveis, além de orquestrar interfaces interativas de ponta a ponta. A lógica por trás da infraestrutura importa tanto quanto a experiência final do usuário.
 
-🏆 **Conquista de Destaque:** 1º Lugar no Hackathon de desenvolvimento colaborativo organizado pela Coti Informática e Criare Systems.
+**Destaque:** 1º Lugar no Hackathon de desenvolvimento colaborativo (Coti Informática e Criare Systems).
 
-**Stack Foco:** Entregando performance com **Java 21, C# .NET e Angular**. 
+**Ecossistema Principal:** Alta performance com Java 21, C# .NET e Angular.
 
 ---
 
-## 🛠 Arsenal Técnico
+## Stack Tecnológica
 
 ### Back-End & Arquitetura
 <p>
@@ -48,14 +48,14 @@ Atuo como um profissional focado na entrega de valor real, dominando o **Back-En
   <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css&theme=dark" />
 </p>
 
-### Dados, DevOps & Infraestrutura
+### Infraestrutura, Dados & Versionamento
 <p>
   <img src="https://skillicons.dev/icons?i=docker,postgres,mysql,git,github&theme=dark" />
 </p>
 
 ---
 
-## 📊 Analytics e Produtividade
+## Métricas de Código
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcusrdrigues&show_icons=true&bg_color=080808&title_color=00f0ff&text_color=a0a0a0&icon_color=00f0ff&border_color=00f0ff&hide_border=false" />
@@ -68,4 +68,4 @@ Atuo como um profissional focado na entrega de valor real, dominando o **Back-En
 
 ---
 
-> *"O design é a interface. O código é a fundação."* — Estudante de Análise e Desenvolvimento de Sistemas pela Estácio, movido por Clean Code e Design Patterns.
+> *"O design é a interface. O código é a fundação."* — Focado em Clean Code e Design Patterns.
