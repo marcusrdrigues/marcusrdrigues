@@ -27,8 +27,6 @@
 
 ## Perfil Profissional
 
-## Perfil Profissional
-
 Atuo como desenvolvedor full stack, construindo ecossistemas corporativos e websites de alta conversão. Ultimamente, porém, meu foco tem sido Engenharia de IA. Ando estudando e aplicando RAG, LLMs e fine-tuning, tentando fazer inteligência artificial funcionar de verdade em produção, e não só em demo.
 
 A lógica por trás da infraestrutura importa tanto quanto a experiência de quem usa. A parte mais divertida do trabalho, pra mim, é fazer esses dois lados conversarem.
