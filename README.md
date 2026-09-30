@@ -27,14 +27,15 @@
 
 ## Perfil Profissional
 
-Não sou apenas um desenvolvedor, sou um construtor de soluções. Com um background analítico afiado pela minha transição de carreira, trago uma visão estratégica para cada arquitetura que desenho.
+## Perfil Profissional
 
-Atuo focado na entrega de valor real, dominando o Back-End para criar APIs REST robustas e escaláveis, além de orquestrar interfaces interativas de ponta a ponta. A lógica por trás da infraestrutura importa tanto quanto a experiência final do usuário.
+Atuo como desenvolvedor full stack, construindo ecossistemas corporativos e websites de alta conversão. Ultimamente, porém, meu foco tem sido Engenharia de IA. Ando estudando e aplicando RAG, LLMs e fine-tuning, tentando fazer inteligência artificial funcionar de verdade em produção, e não só em demo.
+
+A lógica por trás da infraestrutura importa tanto quanto a experiência de quem usa. A parte mais divertida do trabalho, pra mim, é fazer esses dois lados conversarem.
 
 **🏆 Destaque:** 1º Lugar no Hackathon de desenvolvimento colaborativo (Coti Informática e Criare Systems).
 
-**⚙️ Ecossistema Principal:** Alta performance com Java 21, C# .NET e Angular.
-
+**⚙️ Ecossistema Principal:** Java + Spring Boot, C# .NET e Angular.
 ---
 
 ## Stack Tecnológica
