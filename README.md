@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=080808&height=120&section=header&text=%3E_%20Marcus%20Rodrigues&fontSize=40&fontColor=00f0ff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:241773&height=140&section=header" width="100%" />
 </div>
 
-<!-- Troque o link abaixo pelo link do GIF que você subir no seu repositório -->
 <div align="center">
-  <img src="https://i.pinimg.com/originals/2b/23/e8/2b23e808269d0c6fae3e9d8916361bc4.gif" width="100%" height="120" style="object-fit: cover; opacity: 0.8;" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub+%F0%9F%91%8B;Eu+sou+Marcus+Rodrigues;Construindo+o+futuro,+linha+por+linha." alt="Typing SVG" />
+  </a>
 </div>
 
 <h3 align="center">Construindo o futuro. Linha por linha.</h3>
@@ -14,11 +15,11 @@
 </p>
 
 <p align="center">
-  <a href="https://marcusrdrigues.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Website-080808?style=for-the-badge&logo=googlechrome&logoColor=00f0ff&borderColor=00f0ff" alt="Website" />
+  <a href="https://marcusrdrigues.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=A78BFA" alt="Website" />
   </a>
   <a href="https://linkedin.com/in/marcusrdrigues" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-080808?style=for-the-badge&logo=linkedin&logoColor=00f0ff&borderColor=00f0ff" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn" />
   </a>
 </p>
 
@@ -26,13 +27,13 @@
 
 ## Perfil Profissional
 
-Não sou apenas um desenvolvedor, sou um construtor de soluções. Com um background analítico afiado pela minha transição de carreira, trago uma visão estratégica para cada arquitetura que desenho. 
+Não sou apenas um desenvolvedor, sou um construtor de soluções. Com um background analítico afiado pela minha transição de carreira, trago uma visão estratégica para cada arquitetura que desenho.
 
 Atuo focado na entrega de valor real, dominando o Back-End para criar APIs REST robustas e escaláveis, além de orquestrar interfaces interativas de ponta a ponta. A lógica por trás da infraestrutura importa tanto quanto a experiência final do usuário.
 
-**Destaque:** 1º Lugar no Hackathon de desenvolvimento colaborativo (Coti Informática e Criare Systems).
+**🏆 Destaque:** 1º Lugar no Hackathon de desenvolvimento colaborativo (Coti Informática e Criare Systems).
 
-**Ecossistema Principal:** Alta performance com Java 21, C# .NET e Angular.
+**⚙️ Ecossistema Principal:** Alta performance com Java 21, C# .NET e Angular.
 
 ---
 
@@ -58,14 +59,32 @@ Atuo focado na entrega de valor real, dominando o Back-End para criar APIs REST 
 ## Métricas de Código
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcusrdrigues&show_icons=true&bg_color=080808&title_color=00f0ff&text_color=a0a0a0&icon_color=00f0ff&border_color=00f0ff&hide_border=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusrdrigues&layout=compact&bg_color=080808&title_color=00f0ff&text_color=a0a0a0&border_color=00f0ff&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcusrdrigues&show_icons=true&bg_color=0A0A0A&title_color=A78BFA&text_color=FFFFFF&icon_color=9E7C0C&border_color=241773" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusrdrigues&layout=compact&bg_color=0A0A0A&title_color=A78BFA&text_color=FFFFFF&border_color=241773" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcusrdrigues&background=080808&border=00f0ff&stroke=00f0ff&ring=00f0ff&fire=00f0ff&currStreakNum=a0a0a0&currStreakLabel=00f0ff&sideNums=a0a0a0&sideLabels=00f0ff&dates=a0a0a0" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcusrdrigues&background=0A0A0A&border=241773&stroke=241773&ring=A78BFA&fire=9E7C0C&currStreakNum=FFFFFF&currStreakLabel=A78BFA&sideNums=FFFFFF&sideLabels=A78BFA&dates=FFFFFF" />
 </p>
 
 ---
 
-> *"O design é a interface. O código é a fundação."* — Focado em Clean Code e Design Patterns.
+## Frequência de Commits
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcusrdrigues/marcusrdrigues/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/marcusrdrigues/marcusrdrigues/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+<div align="center">
+  <i>"O design é a interface. O código é a fundação."</i><br/>
+  <b>Focado em Clean Code e Design Patterns.</b>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:241773,100:000000&height=100&section=footer" width="100%" />
+</div>
