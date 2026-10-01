@@ -4,14 +4,12 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub+%F0%9F%91%8B;Eu+sou+Marcus+Rodrigues" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3200&pause=1400&color=A78BFA&center=true&vCenter=true&width=640&lines=Oi%2C+eu+sou+o+Marcus+Rodrigues+%F0%9F%91%8B;AI+Engineer+%26+Full+Stack+Developer;Levo+IA+do+prot%C3%B3tipo+%C3%A0+produ%C3%A7%C3%A3o;Java+%E2%80%A2+.NET+%E2%80%A2+Angular+%E2%80%A2+LLMs" alt="Oi, eu sou o Marcus Rodrigues" />
   </a>
 </div>
 
-<h3 align="center">Construindo o futuro. Linha por linha.</h3>
-
 <p align="center">
-  Desenvolvedor Full Stack | Ecossistemas Corporativos | Websites de Alta Conversão
+  <b>LLMs • RAG • Agentes de IA</b> &nbsp;|&nbsp; Java/Spring • C# .NET • Angular
 </p>
 
 <p align="center">
@@ -21,67 +19,81 @@
   <a href="https://linkedin.com/in/marcusrdrigues" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn" />
   </a>
+  <a href="mailto:marcusp181@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="E-mail" />
+  </a>
 </p>
 
 ---
 
-## Perfil Profissional
+## 👨🏻‍💻 Sobre mim
 
-Atuo como desenvolvedor full stack, construindo ecossistemas corporativos e websites de alta conversão. Ultimamente, porém, meu foco tem sido Engenharia de IA. Ando estudando e aplicando RAG, LLMs e fine-tuning, tentando fazer inteligência artificial funcionar de verdade em produção, e não só em demo.
+Sou desenvolvedor Full Stack com foco em **Engenharia de IA**: construo aplicações com LLMs, RAG e agentes conectadas a sistemas reais em Java e .NET.
 
-A lógica por trás da infraestrutura importa tanto quanto a experiência de quem usa. A parte mais divertida do trabalho, pra mim, é fazer esses dois lados conversarem.
+Vim do **Direito** para a tecnologia, e isso mudou meu jeito de programar: antes da primeira linha de código, quero entender a fundo o problema de quem vai usar.
 
-**🏆 Destaque:** 1º Lugar no Hackathon de desenvolvimento colaborativo (Coti Informática e Criare Systems).
+- 🤖 Desenvolvi a camada de IA de uma plataforma de vistorias de campo para o setor público (+10 mil registros): classificação, resumos, detecção de inconsistências e chat sobre os dados
+- 💬 Hoje construo um canal de suporte inteligente com RAG e busca semântica
+- ⚖️ Em paralelo, desenvolvo um produto próprio de IA para o mercado jurídico
+- 🔐 Estudando **Segurança em IA** e **Agentes com Spring AI**
+- 🏆 1º lugar no Hackathon Coti Informática × Criare Sistemas (2025)
 
-**⚙️ Ecossistema Principal:** Java + Spring Boot, C# .NET e Angular.
 ---
 
-## Stack Tecnológica
+## 🧠 Stack
 
-### Back-End & Arquitetura
+### IA & LLMs
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet&theme=dark" />
+  <img src="https://img.shields.io/badge/LLMs-0A0A0A?style=for-the-badge&logo=openai&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/RAG-0A0A0A?style=for-the-badge&logo=databricks&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/Agentes_de_IA-0A0A0A?style=for-the-badge&logo=probot&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/Spring_AI-0A0A0A?style=for-the-badge&logo=spring&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/Claude-0A0A0A?style=for-the-badge&logo=claude&logoColor=A78BFA" />
 </p>
 
-### Front-End & UI/UX
+### Back-End
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,rabbitmq&theme=dark" />
+</p>
+
+### Front-End
 <p>
   <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css&theme=dark" />
 </p>
 
-### Infraestrutura, Dados & Versionamento
+### Dados, Infra & Ferramentas
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,postgres,mysql,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,github,idea,vscode&theme=dark" />
 </p>
 
 ---
 
-## Métricas de Código
+## 📊 Métricas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcusrdrigues&show_icons=true&bg_color=0A0A0A&title_color=A78BFA&text_color=FFFFFF&icon_color=9E7C0C&border_color=241773" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusrdrigues&layout=compact&bg_color=0A0A0A&title_color=A78BFA&text_color=FFFFFF&border_color=241773" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=marcusrdrigues&show_icons=true&hide_border=false&bg_color=0A0A0A&title_color=A78BFA&text_color=FFFFFF&icon_color=C9A227&border_color=241773" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusrdrigues&layout=compact&bg_color=0A0A0A&title_color=A78BFA&text_color=FFFFFF&border_color=241773" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcusrdrigues&background=0A0A0A&border=241773&stroke=241773&ring=A78BFA&fire=9E7C0C&currStreakNum=FFFFFF&currStreakLabel=A78BFA&sideNums=FFFFFF&sideLabels=A78BFA&dates=FFFFFF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcusrdrigues&background=0A0A0A&border=241773&stroke=241773&ring=A78BFA&fire=C9A227&currStreakNum=FFFFFF&currStreakLabel=A78BFA&sideNums=FFFFFF&sideLabels=A78BFA&dates=FFFFFF" />
 </p>
 
 ---
 
-## Frequência de Commits
+## 🐍 Contribuições
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcusrdrigues/marcusrdrigues/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/marcusrdrigues/marcusrdrigues/output/github-contribution-grid-snake.svg" />
+    <img alt="Animação da cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/marcusrdrigues/marcusrdrigues/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
 ---
 
 <div align="center">
-  <i>"O design é a interface. O código é a fundação."</i><br/>
-  <b>Focado em Clean Code e Design Patterns.</b>
+  <i>"IA só gera valor quando é tratada como software de verdade."</i>
 </div>
 
 <div align="center">
