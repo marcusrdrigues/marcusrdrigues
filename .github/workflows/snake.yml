@@ -15,9 +15,10 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: marcusrdrigues
+          # Tema claro: cobrinha roxa | Tema escuro: grade em tons de roxo + cobrinha dourada (paleta Ravens)
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=purple
+            dist/github-contribution-grid-snake.svg?color_snake=#241773&color_dots=#ebedf0,#d6cffc,#a78bfa,#6d4fd8,#241773
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#C9A227&color_dots=#161b22,#2a1f5c,#3d2c91,#6d4fd8,#a78bfa
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
