@@ -19,7 +19,7 @@
   <a href="https://linkedin.com/in/marcusrdrigues" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn" />
   </a>
-  <a href="mailto:marcusp181@gmail.com">
+  <a href="mailto:contato@marcusrdrigues.com">
     <img src="https://img.shields.io/badge/E--mail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="E-mail" />
   </a>
 </p>
@@ -88,6 +88,16 @@ Vim do **Direito** para a tecnologia, e isso mudou meu jeito de programar: antes
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcusrdrigues/marcusrdrigues/output/github-contribution-grid-snake-dark.svg" />
     <img alt="Animação da cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/marcusrdrigues/marcusrdrigues/output/github-contribution-grid-snake.svg" />
   </picture>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://marcusrdrigues.com" target="_blank">
+    <img src="./assets/nox.svg" width="96" alt="Nox, o mascote do meu portfólio" />
+  </a>
+  <br />
+  <sub>Este é o <b>Nox</b>, o mascote do meu portfólio. Pergunte qualquer coisa sobre mim em <a href="https://marcusrdrigues.com">marcusrdrigues.com</a>.</sub>
 </p>
 
 ---
