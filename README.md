@@ -13,22 +13,22 @@
 
 ---
 
-## 👨🏻‍💻 Sobre mim
+## <img src="./assets/icons/sobre.svg" width="22" height="22" alt="" /> Sobre mim
 
 Sou desenvolvedor Full Stack com foco em **Engenharia de IA**: construo aplicações com LLMs, RAG e agentes conectadas a sistemas reais em Java e .NET, e trato IA como software de verdade, com testes, avaliação e segurança.
 
 Vim do **Direito** para a tecnologia, e isso mudou meu jeito de programar: antes da primeira linha de código, quero entender a fundo o problema de quem vai usar.
 
-- 🤖 Desenvolvi a camada de IA de uma plataforma de vistorias de campo para o setor público (+10 mil registros): classificação, resumos, detecção de inconsistências e chat sobre os dados
-- 💬 Hoje construo um canal de suporte inteligente com RAG e busca semântica
-- 🧪 Criei o **[noxeval](https://github.com/marcusrdrigues/noxeval)**, pacote open source para avaliar apps de LLM e agentes
-- ⚖️ Em paralelo, desenvolvo um produto próprio de IA para o mercado jurídico
-- 🔐 Estudando **Segurança em IA** (OWASP Top 10 para LLMs) e **agentes com Spring AI**
-- 🏆 1º lugar no Hackathon Coti Informática × Criare Sistemas (2025)
+- <img src="./assets/icons/ia.svg" width="16" height="16" alt="" /> Desenvolvi a camada de IA de uma plataforma de vistorias de campo para o setor público (+10 mil registros): classificação, resumos, detecção de inconsistências e chat sobre os dados
+- <img src="./assets/icons/suporte.svg" width="16" height="16" alt="" /> Hoje construo um canal de suporte inteligente com RAG e busca semântica
+- <img src="./assets/icons/noxeval.svg" width="16" height="16" alt="" /> Criei o **[noxeval](https://github.com/marcusrdrigues/noxeval)**, pacote open source para avaliar apps de LLM e agentes
+- <img src="./assets/icons/juridico.svg" width="16" height="16" alt="" /> Em paralelo, desenvolvo um produto próprio de IA para o mercado jurídico
+- <img src="./assets/icons/seguranca.svg" width="16" height="16" alt="" /> Estudando **Segurança em IA** (OWASP Top 10 para LLMs) e **agentes com Spring AI**
+- <img src="./assets/icons/trofeu.svg" width="16" height="16" alt="" /> 1º lugar no Hackathon Coti Informática × Criare Sistemas (2025)
 
 ---
 
-## 🚀 Em destaque
+## <img src="./assets/icons/destaque.svg" width="22" height="22" alt="" /> Em destaque
 
 <table>
   <tr>
@@ -59,7 +59,7 @@ Vim do **Direito** para a tecnologia, e isso mudou meu jeito de programar: antes
   </tr>
 </table>
 
-### 🔌 Converse com meu portfólio pelo seu assistente de IA
+### <img src="./assets/icons/mcp.svg" width="22" height="22" alt="" /> Converse com meu portfólio pelo seu assistente de IA
 
 O site tem um servidor [MCP](https://modelcontextprotocol.io) só de leitura. Adicione como conector no Claude, no Cursor ou em qualquer cliente MCP e pergunte sobre o meu trabalho:
 
@@ -69,7 +69,7 @@ https://marcusrdrigues.com/api/mcp
 
 ---
 
-## 🧠 Stack
+## <img src="./assets/icons/stack.svg" width="22" height="22" alt="" /> Stack
 
 ### IA & LLMs
 <p>
@@ -99,7 +99,7 @@ https://marcusrdrigues.com/api/mcp
 
 ---
 
-## 🐍 Contribuições
+## <img src="./assets/icons/contribuicoes.svg" width="22" height="22" alt="" /> Contribuições
 
 <p align="center">
   <picture>
