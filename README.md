@@ -9,6 +9,7 @@
   <a href="https://linkedin.com/in/marcusrdrigues" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=A493FF" alt="LinkedIn" /></a>
   <a href="mailto:contato@marcusrdrigues.com"><img src="https://img.shields.io/badge/E--mail-0A0A0F?style=for-the-badge&logo=gmail&logoColor=A493FF" alt="E-mail" /></a>
   <a href="https://www.npmjs.com/package/noxeval" target="_blank"><img src="https://img.shields.io/npm/v/noxeval?style=for-the-badge&logo=npm&logoColor=A493FF&label=noxeval&labelColor=0A0A0F&color=6D4AFF" alt="noxeval no npm" /></a>
+  <a href="https://central.sonatype.com/artifact/com.marcusrdrigues/noxguard-core" target="_blank"><img src="https://img.shields.io/maven-central/v/com.marcusrdrigues/noxguard-core?style=for-the-badge&logo=apachemaven&logoColor=A493FF&label=noxguard&labelColor=0A0A0F&color=6D4AFF" alt="noxguard no Maven Central" /></a>
 </p>
 
 ---
@@ -22,6 +23,7 @@ Vim do **Direito** para a tecnologia, e isso mudou meu jeito de programar: antes
 - <img src="./assets/icons/ia.svg" width="16" height="16" alt="" /> Desenvolvi a camada de IA de uma plataforma de vistorias de campo para o setor público (+10 mil registros): classificação, resumos, detecção de inconsistências e chat sobre os dados
 - <img src="./assets/icons/suporte.svg" width="16" height="16" alt="" /> Hoje construo um canal de suporte inteligente com RAG e busca semântica
 - <img src="./assets/icons/noxeval.svg" width="16" height="16" alt="" /> Criei o **[noxeval](https://github.com/marcusrdrigues/noxeval)**, pacote open source para avaliar apps de LLM e agentes
+- <img src="./assets/icons/noxguard.svg" width="16" height="16" alt="" /> Publiquei o **[noxguard](https://github.com/marcusrdrigues/noxguard)**, guardrails determinísticos para chats e agentes com LLM em Java, no Maven Central
 - <img src="./assets/icons/juridico.svg" width="16" height="16" alt="" /> Em paralelo, desenvolvo um produto próprio de IA para o mercado jurídico
 - <img src="./assets/icons/seguranca.svg" width="16" height="16" alt="" /> Estudando **Segurança em IA** (OWASP Top 10 para LLMs) e **agentes com Spring AI**
 - <img src="./assets/icons/trofeu.svg" width="16" height="16" alt="" /> 1º lugar no Hackathon Coti Informática × Criare Sistemas (2025)
@@ -53,6 +55,15 @@ Vim do **Direito** para a tecnologia, e isso mudou meu jeito de programar: antes
       Camada de IA sobre mais de 10 mil vistorias de um recadastramento no setor público: classificação, resumos, alertas de inconsistência e chat sobre um banco só de leitura. Concluído com atestado de capacidade técnica.
     </td>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/marcusrdrigues/noxguard">noxguard</a></h3>
+      As guardas do Nox, portadas para Java: uma guarda de saída que pega vazamento <b>sem segurar o streaming</b>, lista de links, histórico assinado e um portão que só libera a ação proposta pelo agente se a resposta não for recusa. App de exemplo em Spring Boot avaliado pelo noxeval no CI.
+      <br /><br />
+      <a href="https://central.sonatype.com/artifact/com.marcusrdrigues/noxguard-core"><img src="https://img.shields.io/maven-central/v/com.marcusrdrigues/noxguard-core?style=flat-square&labelColor=0A0A0F&color=6D4AFF&label=maven%20central" alt="Versão no Maven Central" /></a>
+      <img src="https://img.shields.io/badge/Java-21%2B-C9A227?style=flat-square&labelColor=0A0A0F" alt="Java 21 ou superior" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h3><a href="https://marcusrdrigues.com/pt/projetos/hackathon-coti-criare">Hackathon Coti × Criare</a></h3>
       1º lugar em 24 horas com uma plataforma de cotações e negociação entre empresas e fornecedores, que depois virou produto: negociação ao vivo por WebSocket e demo pública.
     </td>
